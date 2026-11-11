@@ -4,6 +4,13 @@ A desktop toast notification that pops up whenever you save the OBS **Replay Buf
 
 The default look is deliberately minimal: a flat, square card with a muted grey checkmark, the clip's filename, and a quick fade. Everything about it can be changed from OBS's script settings.
 
+<img width="400" height="225" alt="Replay 2026-11-11 00-44-03-00 00 22 000-00 00 28 483" src="https://github.com/user-attachments/assets/1157dd9a-531a-4ab2-b810-b25ec2b1f01d" />
+
+
+## AI disclosure
+
+This project was created with the help of AI. The code was written by Anthropic's Claude based on my requirements and feedback, and I tested and iterated on it in OBS. As with any AI-assisted code, review it before relying on it, and please report bugs by opening an issue. It is provided as-is, without warranty.
+
 ## Features
 
 - Appears on your desktop each time the replay buffer is saved
