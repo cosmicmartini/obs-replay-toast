@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Personal exported settings (may contain local file paths)
+replay_toast_settings.json
